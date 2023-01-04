@@ -7,7 +7,9 @@ public class Example {
 
 	}
     public static void main(String[] args) {
-    	
+       Example e = new Example();
+    
+    	e.openBrowser();
     	System.out.println("Hi Im Harish");
 	}
 
