@@ -10,6 +10,7 @@ public class Example {
        Example e = new Example();
     
     	e.openBrowser();
+    	System.out.println(e);
     	System.out.println("Hi Im Harish");
 	}
 
